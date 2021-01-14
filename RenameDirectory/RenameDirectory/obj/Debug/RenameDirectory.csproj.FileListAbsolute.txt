@@ -1,0 +1,14 @@
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\bin\Debug\RenameDirectory.exe.config
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\bin\Debug\RenameDirectory.exe
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\bin\Debug\RenameDirectory.pdb
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.csprojAssemblyReference.cache
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.csproj.CoreCompileInputs.cache
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.exe
+C:\Users\iksap\source\repos\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.pdb
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\bin\Debug\RenameDirectory.exe.config
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\bin\Debug\RenameDirectory.exe
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\bin\Debug\RenameDirectory.pdb
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.csprojAssemblyReference.cache
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.csproj.CoreCompileInputs.cache
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.exe
+C:\Users\iksap\Desktop\RenameDirectory\RenameDirectory\obj\Debug\RenameDirectory.pdb
